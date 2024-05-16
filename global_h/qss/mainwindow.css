@@ -1,0 +1,31 @@
+﻿QPushButton#bottom:checked {
+    background-color: rgb(233,180,103);
+}
+
+QPushButton#bottom {
+    background-color: transparent;
+
+    border: 2px solid #FDBC03;
+    border-radius: 15px;
+}
+QPushButton#link {
+    background-color: transparent;
+
+    border: 10px outset rgb(225,148,96);
+    border-radius: 15px;
+
+}
+
+QWidget
+{
+ background:rgb(253,250,243);
+ padding:0px;
+ margin:0px;
+ border:4px outset rgb(233,123,103);
+ font-style:"LiSu";
+}
+
+QGroupBox
+{
+  border:0px;
+}

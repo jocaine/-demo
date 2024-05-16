@@ -1,0 +1,29 @@
+﻿QPushButton {
+    background-color: rgb(253,250,243);
+
+    border: 1px outset rgb(225,148,96);
+    border-radius: 15px;
+
+}
+
+QWidget
+{
+ background:rgb(253,250,243);
+ padding:0px;
+ margin:0px;
+ border:2px outset rgb(233,123,103);
+ font-style:"LiSu";
+}
+
+QWidget#save_widget
+{
+ background:rgb(253,250,243);
+ padding:0px;
+ margin:0px;
+ border:0px outset rgb(233,123,103);
+ font-style:"LiSu";
+}
+QGroupBox
+{
+  border:0px;
+}

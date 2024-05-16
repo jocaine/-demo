@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/mainwindow.css</file>
+        <file>qss/arch.css</file>
+        <file>qss/g_s.css</file>
+        <file>qss/round.css</file>
+    </qresource>
+</RCC>
